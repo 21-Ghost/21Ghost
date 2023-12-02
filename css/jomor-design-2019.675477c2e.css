@@ -373,6 +373,7 @@ html[data-w-dynpage] [data-w-cloak] {
 }
 
 .w-webflow-badge > img {
+  width: 100px;
   visibility: visible !important;
   opacity: 1 !important;
   vertical-align: middle !important;
@@ -2486,8 +2487,8 @@ body {
 }
 
 .button-text {
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 
 .menu-logo {
